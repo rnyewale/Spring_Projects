@@ -1,0 +1,11 @@
+com\user\data\model\User.class
+META-INF\maven\com.spring.data.jpa\Spring-Data-Jpa\pom.properties
+com\user\data\repositories\UserRepository.class
+META-INF\MANIFEST.MF
+com\spring\data\jpa\SpringDataJpa\SpringDataJpaApplication.class
+com\spring\data\jpa\entity\Student.class
+com\spring\data\jpa\controller\StudentController.class
+com\user\data\contrller\UserController.class
+com\spring\data\jpa\services\StudentService.class
+META-INF\maven\com.spring.data.jpa\Spring-Data-Jpa\pom.xml
+com\spring\data\jpa\repositories\StudentRepository.class
